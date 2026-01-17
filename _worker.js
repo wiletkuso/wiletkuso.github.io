@@ -5,7 +5,7 @@ export default {
 
 		const staticFiles = [
 			"favicon.ico",
-			"ajax/libs/jquery/3.6.0/jquery.min.js"
+			"ajax/libs/jquery/4.0.2/jquery.min.js"
 		];
 
 		if (staticFiles.includes(pathname.slice(1))) {
